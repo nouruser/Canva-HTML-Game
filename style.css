@@ -1,0 +1,50 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  cursor: pointer;
+}
+p{
+    font-family: 'Ms Madi', cursive;
+    font-size: 33px;
+    color:#3A5A81;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+#introduction {
+  width: 200px;
+  height: 150px;
+  position: absolute;
+  font-weight: 600;
+  font-size: 0.8em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  transition: opacity 2s;
+}
+
+#restart {
+  width: 150px;
+  height: 100px;
+  position: absolute;
+  border-radius: 20px 40px;
+  color: #ABD1DC;
+  background-color: #7097AB;
+  border: none;
+  font-weight: 700;
+  font-size: 1.2em;
+  font-family: 'Ms Madi', cursive;
+  display: none;
+  cursor: pointer;
+}
+
+

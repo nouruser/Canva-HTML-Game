@@ -1,4 +1,3 @@
-# Canva-HTML-Game
 
 # Canvas Airship Game
 Welcome to the Canvas Airship Game, a fun and interactive game created with HTML, CSS, and JavaScript. In this game, you control an airship using your mouse to navigate through the sky. Your goal is to keep the airship afloat by holding down the mouse button to raise it and flying low to save fuel.

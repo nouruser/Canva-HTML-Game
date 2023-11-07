@@ -19,6 +19,6 @@ Have fun and enjoy the Canvas Airship Game! If you have any feedback or suggesti
 
 ## About the Author
 
-This game is created by [Your Name]. You can find more of my projects on my GitHub profile.
+This game is created by me. You can find more of my projects on my GitHub profile.
 
 **Happy gaming!**
